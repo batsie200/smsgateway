@@ -1,0 +1,8 @@
+{
+  "from": "developer",
+  "to": [
+    "263774222193"
+  ],
+  "message": ">>> Test long message from Oswin",
+  "notifyUrl": "http://someurl"
+}
